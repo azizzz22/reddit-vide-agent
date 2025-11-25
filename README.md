@@ -42,7 +42,7 @@ Transform Reddit posts into **professional, engaging short-form videos** automat
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/reddit-video-agent.git
+git clone https://github.com/azizzz22/reddit-video-agent.git
 cd reddit-video-agent
 ```
 
