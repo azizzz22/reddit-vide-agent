@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project Specific
+reddit_video_agent/assets/*
+reddit_video_agent/output/*
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.srt
+*.json
+temp-audio.m4a
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+config.ini
+*_key.txt
+api_keys.json
+
+# Browser data (Selenium)
+browser_data/
+chromedriver*
+geckodriver*
+
+# Keep directory structure
+!reddit_video_agent/assets/.gitkeep
+!reddit_video_agent/output/.gitkeep

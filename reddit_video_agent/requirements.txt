@@ -1,0 +1,14 @@
+google-generativeai
+playwright
+openai-whisper
+moviepy
+rembg
+srt
+pydub
+pillow
+numpy
+requests
+python-dotenv
+beautifulsoup4
+yt-dlp
+srt

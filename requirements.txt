@@ -1,0 +1,28 @@
+# Core Dependencies
+google-generativeai>=0.3.0
+moviepy>=1.0.3
+openai-whisper>=20231117
+pydub>=0.25.1
+srt>=3.5.3
+rembg>=2.0.50
+Pillow>=10.0.0
+
+# Web Scraping
+praw>=7.7.1
+yt-dlp>=2023.11.16
+
+# Browser Automation (for image generation)
+selenium>=4.15.0
+webdriver-manager>=4.0.1
+
+# Audio Processing
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+numpy>=1.24.0
+
+# Optional: GPU acceleration for Whisper
+# torch==2.0.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
